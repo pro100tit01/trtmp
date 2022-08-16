@@ -1,1 +1,1 @@
-worker: bash scripts/run.heroku.sh
+worker: bash scripts/install.debian.sh
